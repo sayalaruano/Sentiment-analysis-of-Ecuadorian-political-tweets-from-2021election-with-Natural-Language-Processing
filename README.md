@@ -1,7 +1,7 @@
 # Sentiment analysis of Ecuadorian political tweets from 2021 elections using Natural Language Processing
 
 ## Authors: Sebastián Ayala, David Mena, Sebastián Lucero 
-### 21th December 2021
+### 21th December 2020
 
 ## About this project 
 In this project, we captured sentiments of replies to tweets from two Ecuadorian presidential candidates in the 2021 elections (@LassoGuillermo and @ecuarauz). A model of neural networks was used to classify tweets considering their sentiment as positive, negative, or neutral. The training dataset was obtained from the    [Workshop on Semantic Analysis at SEPLN (TASS)](http://tass.sepln.org/) of 2020, 2019, and 2012. Thus, we joined together data of the three editions in one dataset that has information about the id, text, and sentiment associated with tweets. Due to privacy politics we can't share the datasets here, but you can register in this [page](http://tass.sepln.org/2020/?page_id=74) and yo will access all datasets. 
